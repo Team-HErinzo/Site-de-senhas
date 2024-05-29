@@ -1,6 +1,10 @@
 :root{
    background-color: aquamarine;
-   justify-content: center;
+   text-align: center;
 
 }
 
+.cadeado{
+    width: 10%;
+    
+}
