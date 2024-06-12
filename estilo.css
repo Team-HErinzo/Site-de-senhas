@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Danfo&family=Sevillana&display=swap');
 
 :root{
-   --cor-de-fundo:#ffffff;
-   --cor-de-texto:#ffffff;
+   --cor-de-fundo:#000000;
+   --cor-de-texto:#000000;
    --fundo-senha:#faf408;
    --fundo-texto:#2edd4b;
    --borda:#86a03e;
